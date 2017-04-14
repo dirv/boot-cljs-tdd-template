@@ -14,8 +14,8 @@ chmod a+x prepare.sh
 
 ### Running tests
 
-`boot test-cljs`
+`boot testing test-cljs`
 
 or
 
-`boot watch test-cljs`
+`boot watch testing test-cljs`
